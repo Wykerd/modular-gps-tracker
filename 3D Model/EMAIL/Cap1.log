@@ -1,0 +1,30 @@
+Solid Edge Translation to STEP
+Date: Thursday,August 09,2018 08:15PM
+Output File: C:\Users\Daniel Wykerd\Documents\Daniel Skool Take\FW EXPO\3D Model\EMAIL\Cap1.stp
+Author: Unknown
+Organization: Unknown
+Source System: Solid Edge
+
+Hardware:
+Processor: AMD Ryzen 5 1500X Quad-Core Processor          
+Operating System: Windows 8 Professional
+Installed Memory: 7.95 GB
+
+Software Information
+Parasolid Version: 30.1.256
+PSBodyShop Version: 30.1.94
+Step Adapter Version: 4.0.40
+Solid Edge Version: 219.00.00.091 x64
+
+STEP Export Options
+Export Format: AP214
+Export Construction Sheets: Off
+Export Construction Solids: Off
+Export Construction Wires: Off
+Export Displayed Parts Only: Off
+Export Units: Millimeters
+Export Part Component Names As Unicode: Off
+
+Phase 1 of 1 Translating Parasolid to foreign data types...
+Translation process completed
+Time required to translate:00 : 00 : 01

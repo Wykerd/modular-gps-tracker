@@ -1,0 +1,199 @@
+STEP translation to Solid Edge
+Date: Tuesday,September 25,2018 07:41PM
+Source File: C:\Users\Daniel Wykerd\Documents\Daniel Skool Take\FW EXPO\Nationals documents\Report File Nationals\Datalogger case\1050170001.stp
+Author: me
+Organization: Unknown
+Source System: PRO/ENGINEER BY PARAMETRIC TECHNOLOGY CORPORATION, 2011490
+
+Hardware:
+Processor: AMD Ryzen 5 1500X Quad-Core Processor          
+Operating System: Windows 8 Professional
+Installed Memory: 7.95 GB
+
+Software Information
+Parasolid Version: 30.1.256
+PSBodyShop Version: 30.1.94
+Step Adapter Version: 4.0.40
+Solid Edge Version: 219.00.00.091 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Users\Daniel Wykerd\Documents\Daniel Skool Take\FW EXPO\Nationals documents\Report File Nationals\Datalogger case
+Import Enable Default Output Path: On
+Import Path: 
+
+Translating to Parasolid data types...
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Warn:     Unregistered message code: PSF_INVALID_COLORS. Notify vendor.
+
+Translation process completed
+Total time required to translate and post process:00 : 00 : 09
